@@ -19,3 +19,8 @@
 
 
 ### https://github.com/trickest/cve
+
+
+### WadComs --> https://wadcoms.github.io/
+
+### Todas las extensiones de php --> https://github.com/fuzzdb-project/fuzzdb/blob/master/attack/file-upload/alt-extensions-php.txt
